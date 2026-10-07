@@ -1,0 +1,26 @@
+---
+title: "CITI Certification"
+format: html
+editor: visual
+---
+
+## CITI Training Certificate
+
+I successfully completed the required CITI Program training for CCollege of Business Administration. The certificate of completion is provided below.
+
+![](College%20of%20Business%20Administration%20(CITI).png)
+
+## CITI Training Certificate
+
+I successfully completed the required CITI Program training for CPP - Introduction to Human Subjects 101. The certificate of completion is provided below.
+
+![](Introduction%20to%20Human%20Subjects%20(CITI).png)
+
+## Appendix
+
+### Links
+
+- [CITI Program](https://www.citiprogram.org/)
+- [Cal Poly Pomona Institutional Review Board (IRB)](https://www.cpp.edu/research/research-compliance/irb/protocol.shtml)
+- [CITI Certification Report - GitHub Pages](你的GitHub-Pages網址)
+- [GitHub Repository](你的Repository網址)
