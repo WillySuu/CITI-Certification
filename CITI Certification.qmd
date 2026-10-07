@@ -1,5 +1,7 @@
 ---
 title: "CITI Certification"
+author: "Willy Su"
+date: "October 6, 2026"
 format: html
 editor: visual
 ---
