@@ -8,7 +8,7 @@ editor: visual
 
 ## CITI Training Certificate
 
-I successfully completed the required CITI Program training for CCollege of Business Administration. The certificate of completion is provided below.
+I successfully completed the required CITI Program training for College of Business Administration. The certificate of completion is provided below.
 
 ![](College%20of%20Business%20Administration%20(CITI).png)
 
@@ -24,5 +24,5 @@ I successfully completed the required CITI Program training for CPP - Introducti
 
 - [CITI Program](https://www.citiprogram.org/)
 - [Cal Poly Pomona Institutional Review Board (IRB)](https://www.cpp.edu/research/research-compliance/irb/protocol.shtml)
-- [CITI Certification Report - GitHub Pages](你的GitHub-Pages網址)
-- [GitHub Repository](你的Repository網址)
+- [CITI Certification Report - GitHub Pages](https://willysuu.github.io/CITI-Certification/)
+- [GitHub Repository](https://github.com/WillySuu/CITI-Certification)
